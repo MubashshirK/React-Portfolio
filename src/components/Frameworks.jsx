@@ -1,5 +1,5 @@
 import { p } from "motion/react-client";
-import { OrbitingCircles } from "../components/OrbitingCircles.jsx";
+import { OrbitingCircles } from "./OrbitingCircles.jsx";
 
 export function Frameworks() {
   const skills = [
